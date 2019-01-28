@@ -1,2 +1,3 @@
 Inserting with the command i
-Cutting with the command Esc y 
+Cutting with the command Esc yy
+Pasting with the command Esc p 
