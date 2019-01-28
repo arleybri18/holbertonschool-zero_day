@@ -3,3 +3,4 @@ Cutting with the command Esc yy
 Pasting with the command Esc p
  
 Undoing with the command Esc u 
+Exiting t=with the command Esc :q
